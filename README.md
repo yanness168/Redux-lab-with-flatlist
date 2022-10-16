@@ -1,0 +1,1 @@
+# Use Redux and Flatlist
