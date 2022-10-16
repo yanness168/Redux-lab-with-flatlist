@@ -13,8 +13,6 @@ const mapStateToProps = (state) =>{
     }
 }
 
-/* const renderValue = ({value}) =><Value  */
-
 const recordInput = ({input_v, clear_input, add_v, values, textInput}) =>{
     const handleTextChanged = (text) =>{
         input_v(text)

@@ -20,10 +20,4 @@ export const clear_input = () =>({
 });
 
 
-/* export const decrease = value =>({
-    type: COUNTER_DECREASE,
-    payload: {
-        decreament: value
-    }
-}); */
 
